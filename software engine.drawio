@@ -1,32 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2023-11-03T13:52:52.930Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="OxRXDIjvcgq_IuNXFDrs" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-03T14:08:41.065Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="IMGg_yc0tIbHz2dyNl5f" version="22.0.8" type="github">
   <diagram name="Page-1" id="N2fLYYJ7Sn-WK91yS1RT">
     <mxGraphModel dx="1026" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pkD06Va31-v87r6-lviA-1" value="Product View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-1" value="Product View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA185;" vertex="1" parent="1">
           <mxGeometry x="40" y="50" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pkD06Va31-v87r6-lviA-2" value="Program View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-2" value="Program View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAD8A;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pkD06Va31-v87r6-lviA-3" value="Data View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-3" value="Dev View" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAF91;" vertex="1" parent="1">
           <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pkD06Va31-v87r6-lviA-4" value="Development" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-4" value="Development" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFBEA6;" vertex="1" parent="1">
           <mxGeometry x="40" y="370" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pkD06Va31-v87r6-lviA-5" value="Maintenance" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-5" value="Maintenance" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFAD94;" vertex="1" parent="1">
           <mxGeometry x="40" y="470" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pkD06Va31-v87r6-lviA-6" value="Management" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-6" value="Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFA18A;" vertex="1" parent="1">
           <mxGeometry x="40" y="570" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pkD06Va31-v87r6-lviA-7" value="Reliability" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-7" value="Reliability" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB18A;" vertex="1" parent="1">
           <mxGeometry x="40" y="660" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pkD06Va31-v87r6-lviA-8" value="Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pkD06Va31-v87r6-lviA-8" value="Data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFB691;" vertex="1" parent="1">
           <mxGeometry x="40" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pkD06Va31-v87r6-lviA-9" target="pkD06Va31-v87r6-lviA-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pkD06Va31-v87r6-lviA-9" target="pkD06Va31-v87r6-lviA-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-9" value="Product Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pkD06Va31-v87r6-lviA-10" target="pkD06Va31-v87r6-lviA-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-10" value="UI Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-11" value="UX R&amp;amp;D" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-12" value="Requirement&lt;br&gt;Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-13" value="Issue&lt;br&gt;Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="414" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-14" value="Project&lt;br&gt;Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-15" value="System&lt;br&gt;Design" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-16" value="Build" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-17" value="Testing" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="590" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-18" value="Source&lt;br&gt;Version&lt;br&gt;Control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="780" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-19" value="Branch Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-20" value="Source Repo&lt;br&gt;Management" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="420" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pkD06Va31-v87r6-lviA-21" value="Build System" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
