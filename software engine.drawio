@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T02:51:39.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="tdZ2IxIVQVNq9uqk6LjC" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-11T03:45:21.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d3KLxcVZM6sGg3UDg1lL" version="22.0.8" type="github" pages="2">
   <diagram name="Page-1" id="N2fLYYJ7Sn-WK91yS1RT">
     <mxGraphModel dx="1026" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,11 +354,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="u_5BxPMqi5w5T_L_Zeco-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="60" width="300" height="33.78" as="geometry" />
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-1" value="迭代立项阶段（需求设计）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="60" width="330" height="33.78" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="93.78" width="330" height="606.22" as="geometry" />
+          <mxGeometry x="80" y="93.78" width="330" height="796.22" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-6" target="u_5BxPMqi5w5T_L_Zeco-9">
           <mxGeometry relative="1" as="geometry" />
@@ -461,9 +461,6 @@
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-34" value="特性开发Owner&amp;amp;特性测试Owner" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="550" y="556" width="130" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="u_5BxPMqi5w5T_L_Zeco-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-28" target="u_5BxPMqi5w5T_L_Zeco-28">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-35" target="u_5BxPMqi5w5T_L_Zeco-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -546,8 +543,23 @@
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-45" target="u_5BxPMqi5w5T_L_Zeco-46">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-45" target="u_5BxPMqi5w5T_L_Zeco-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-45" target="u_5BxPMqi5w5T_L_Zeco-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-45" target="u_5BxPMqi5w5T_L_Zeco-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-45" target="u_5BxPMqi5w5T_L_Zeco-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-45" value="测试用例编写&lt;br&gt;工具：CloudTest" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="982" y="730" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-46" target="u_5BxPMqi5w5T_L_Zeco-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-46" value="测试用例评审" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1200" y="731" width="120" height="38" as="geometry" />
@@ -564,14 +576,20 @@
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-48" value="开发自验证完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1170" y="436.44" width="120" height="43.56" as="geometry" />
         </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-49" target="u_5BxPMqi5w5T_L_Zeco-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-49" value="发起人：特性开发Owner&lt;br&gt;参与人：SL, 架构师，特性开发owner" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="600" width="140" height="80" as="geometry" />
+          <mxGeometry x="1190" y="600" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-50" target="u_5BxPMqi5w5T_L_Zeco-51">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-50" value="冒烟测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1370" y="221" width="120" height="43.56" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-51" value="功能评审" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="225" width="120" height="38" as="geometry" />
+          <mxGeometry x="1580" y="223" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-52" value="Debug/优化&lt;br&gt;工具：CloudDevOps" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1570" y="445.11" width="120" height="43.56" as="geometry" />
@@ -580,7 +598,7 @@
           <mxGeometry x="870" y="810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-54" value="功能/接口用例" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="990" y="810" width="100" height="50" as="geometry" />
+          <mxGeometry x="992" y="810" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-55" value="体验用例" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="1110" y="810" width="100" height="50" as="geometry" />
@@ -598,6 +616,163 @@
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-44" target="u_5BxPMqi5w5T_L_Zeco-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-101" target="u_5BxPMqi5w5T_L_Zeco-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-101" value="发起人：特性开发Owner&lt;br&gt;参与人：SL, 架构师，特性开发owner" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1562" y="105" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="94" width="480" height="796" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-108" target="u_5BxPMqi5w5T_L_Zeco-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-108" value="测试&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1830" y="262" width="170" height="245" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-105" target="u_5BxPMqi5w5T_L_Zeco-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-117" value="优化建议" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_5BxPMqi5w5T_L_Zeco-116">
+          <mxGeometry x="0.3125" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-105" value="体验测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="445.11" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-106" value="页面交互、视觉一致性测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="366" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-107" value="功能/接口测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="300" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-51" target="u_5BxPMqi5w5T_L_Zeco-108">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-111" value="启动" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_5BxPMqi5w5T_L_Zeco-109">
+          <mxGeometry x="-0.2255" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.417;entryY=-0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-107" target="u_5BxPMqi5w5T_L_Zeco-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-112" value="提Bug" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_5BxPMqi5w5T_L_Zeco-110">
+          <mxGeometry x="-0.1548" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.417;entryY=0.112;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-106" target="u_5BxPMqi5w5T_L_Zeco-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-114" value="提bug" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u_5BxPMqi5w5T_L_Zeco-113">
+          <mxGeometry x="-0.0896" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-118" target="u_5BxPMqi5w5T_L_Zeco-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-118" value="回归测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1850" y="604" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-120" value="测试结果" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2100" y="363" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-52" target="u_5BxPMqi5w5T_L_Zeco-118">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-124" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-123" target="u_5BxPMqi5w5T_L_Zeco-120">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-123" value="测试报告&lt;br&gt;Bug情况&amp;amp;自动化测试报告" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="1880" y="135" width="110" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-126" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="94" width="420" height="796" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-127" target="u_5BxPMqi5w5T_L_Zeco-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-127" value="发布评审" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="181" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-128" target="u_5BxPMqi5w5T_L_Zeco-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-128" value="更新Backlog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="286.44" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-138" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-129" target="u_5BxPMqi5w5T_L_Zeco-130">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-129" value="灰度发布 or 种子用户测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="373.44" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-139" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-130" target="u_5BxPMqi5w5T_L_Zeco-131">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-130" value="产品发布上线/升级工具：伏羲流水线" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="463.44" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-131" target="u_5BxPMqi5w5T_L_Zeco-132">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-143" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-131" target="u_5BxPMqi5w5T_L_Zeco-134">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-131" value="线上测试" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="556" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-142" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-132" target="u_5BxPMqi5w5T_L_Zeco-133">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-132" value="通知用户" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2320" y="636.44" width="120" height="43.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-133" value="收集数据，观察反馈，采集需求更新Backlog" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="2315" y="716.44" width="130" height="63.56" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-134" value="特性开发和测试Owner" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="2522" y="548" width="120" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="u_5BxPMqi5w5T_L_Zeco-127">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2220" y="385" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-144" value="过程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="610" y="970" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-145" value="&lt;b&gt;图例&lt;/b&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="550" y="975" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-146" value="评审点" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="760" y="970" width="120" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-147" value="相关文档" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="940" y="958" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-148" value="相关参与方" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="930" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-150" value="责任人" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="941" width="130" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-152" value="特性开发阶段" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="60" width="1350" height="33.78" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-153" value="特性测试（交付前3天）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1760" y="60" width="480" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-154" value="特性发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="2240" y="60" width="420" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-155" value="云服务特性迭代开发流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="26.22" width="330" height="33.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
