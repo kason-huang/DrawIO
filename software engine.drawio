@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T03:45:21.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="d3KLxcVZM6sGg3UDg1lL" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-11-11T04:22:52.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_ieYOBR5Yf00crSIchxe" version="22.0.8" type="github" pages="2">
   <diagram name="Page-1" id="N2fLYYJ7Sn-WK91yS1RT">
     <mxGraphModel dx="1026" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="KJZQrU6fOmetzfLJ517L" name="Page-2">
-    <mxGraphModel dx="714" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -389,7 +389,7 @@
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-10" target="u_5BxPMqi5w5T_L_Zeco-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u_5BxPMqi5w5T_L_Zeco-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-10" target="u_5BxPMqi5w5T_L_Zeco-12">
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-10" target="u_5BxPMqi5w5T_L_Zeco-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-10" value="产品评审" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
@@ -398,19 +398,19 @@
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-12" value="参与人：PLM、SL, 架构师" style="shape=card;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="90" y="312.89" width="100" height="57.11" as="geometry" />
         </mxCell>
-        <mxCell id="u_5BxPMqi5w5T_L_Zeco-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-13" target="u_5BxPMqi5w5T_L_Zeco-14">
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-13" target="u_5BxPMqi5w5T_L_Zeco-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-13" target="u_5BxPMqi5w5T_L_Zeco-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="u_5BxPMqi5w5T_L_Zeco-13" value="需求排除（月度迭代）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-13" value="需求排期（月度迭代）" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="255" y="414.22" width="130" height="35.78" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-14" value="特性交付接话：&lt;br&gt;特性优先级排序&lt;br&gt;特性开发责任人&lt;br&gt;特性测试责任人&lt;br&gt;视觉设计责任人" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="90" y="453" width="100" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="u_5BxPMqi5w5T_L_Zeco-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-22" target="u_5BxPMqi5w5T_L_Zeco-23">
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-22" target="u_5BxPMqi5w5T_L_Zeco-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-22" value="月度迭代Kick off" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
@@ -469,8 +469,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-156" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-35" target="u_5BxPMqi5w5T_L_Zeco-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-35" value="AC设计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="555" y="730" width="120" height="30" as="geometry" />
+          <mxGeometry x="555" y="735" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-36" target="u_5BxPMqi5w5T_L_Zeco-29">
           <mxGeometry relative="1" as="geometry" />
@@ -508,7 +511,7 @@
           <mxGeometry x="736" y="540" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-41" value="技术设计文档&lt;br&gt;（包含内部接口）" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="745" y="465.78" width="100" height="50" as="geometry" />
+          <mxGeometry x="746" y="465.78" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-42" target="u_5BxPMqi5w5T_L_Zeco-43">
           <mxGeometry relative="1" as="geometry" />
@@ -520,8 +523,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1120" y="307" />
-              <mxPoint x="1120" y="720" />
-              <mxPoint x="1042" y="720" />
+              <mxPoint x="1120" y="640" />
+              <mxPoint x="1042" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -538,7 +541,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-44" value="详细设计评审" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="970" y="566" width="120" height="38" as="geometry" />
+          <mxGeometry x="970" y="536" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-45" target="u_5BxPMqi5w5T_L_Zeco-46">
           <mxGeometry relative="1" as="geometry" />
@@ -568,13 +571,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-47" value="特性开发&lt;br&gt;工具：CloudHub" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="326.44" width="120" height="43.56" as="geometry" />
+          <mxGeometry x="1170" y="398.44" width="120" height="43.56" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-48" target="u_5BxPMqi5w5T_L_Zeco-50">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-48" value="开发自验证完成" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="436.44" width="120" height="43.56" as="geometry" />
+          <mxGeometry x="1170" y="500.44" width="120" height="43.56" as="geometry" />
         </mxCell>
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="u_5BxPMqi5w5T_L_Zeco-49" target="u_5BxPMqi5w5T_L_Zeco-46">
           <mxGeometry relative="1" as="geometry" />
@@ -771,8 +774,8 @@
         <mxCell id="u_5BxPMqi5w5T_L_Zeco-154" value="特性发布" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2240" y="60" width="420" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="u_5BxPMqi5w5T_L_Zeco-155" value="云服务特性迭代开发流程" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="26.22" width="330" height="33.78" as="geometry" />
+        <mxCell id="u_5BxPMqi5w5T_L_Zeco-155" value="云服务特性迭代开发流程" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="80" y="26.22" width="2580" height="33.78" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
