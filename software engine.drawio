@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-11T04:22:52.157Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_ieYOBR5Yf00crSIchxe" version="22.0.8" type="github" pages="2">
-  <diagram name="Page-1" id="N2fLYYJ7Sn-WK91yS1RT">
-    <mxGraphModel dx="1026" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-11-11T12:46:09.095Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EyeyeM5Ye2kaB6udqZHN" version="22.0.8" type="github" pages="2">
+  <diagram name="全景图" id="N2fLYYJ7Sn-WK91yS1RT">
+    <mxGraphModel dx="714" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -349,8 +349,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="KJZQrU6fOmetzfLJ517L" name="Page-2">
-    <mxGraphModel dx="1026" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram id="KJZQrU6fOmetzfLJ517L" name="特性开发过程">
+    <mxGraphModel dx="714" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
