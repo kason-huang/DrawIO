@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-09T00:15:38.197Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="M6D1Qaek3-MyTmRcH7gx" version="22.1.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-09T00:17:27.524Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="WrlLK1S_SgaNsonFrx24" version="22.1.5" type="github" pages="2">
   <diagram name="人欲" id="_Go4jwINJT83MQobv6Sl">
     <mxGraphModel dx="714" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -429,7 +429,7 @@
         <mxCell id="UOFzbdPcFjYuejqiO3a8-46" value="齐家" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="700" y="615" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="UOFzbdPcFjYuejqiO3a8-47" value="诚意" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+        <mxCell id="UOFzbdPcFjYuejqiO3a8-47" value="诚意/德" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1149" y="323.5" width="46" height="23" as="geometry" />
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-0" value="价值观：知善知恶是良知&lt;br&gt;人类文明积淀的智慧、道德与灵性的自觉" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF0080;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
