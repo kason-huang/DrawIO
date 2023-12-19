@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T01:03:35.539Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JJ4npHZlRfN9FtNuua55" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-19T23:36:51.014Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="YuxrDNLghTkSvThVlMwM" version="22.1.11" type="github" pages="2">
   <diagram name="人欲" id="_Go4jwINJT83MQobv6Sl">
-    <mxGraphModel dx="714" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
-    <mxGraphModel dx="714" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="606" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rlW48G9oCbKYzvNIchC9-0" />
         <mxCell id="rlW48G9oCbKYzvNIchC9-1" parent="rlW48G9oCbKYzvNIchC9-0" />
@@ -283,7 +283,7 @@
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-28" value="&lt;font color=&quot;#ff3333&quot;&gt;道&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pElc_GBahKU2lHsQ8S-i-1" vertex="1" connectable="0">
           <mxGeometry x="-0.8251" y="-1" relative="1" as="geometry">
-            <mxPoint y="18" as="offset" />
+            <mxPoint y="-20" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="rlW48G9oCbKYzvNIchC9-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;良知&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
@@ -398,7 +398,7 @@
           <mxGeometry x="1435" y="176" width="20" height="120" as="geometry" />
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-26" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;道&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1465" y="215.5" width="40" height="31" as="geometry" />
+          <mxGeometry x="1465" y="217" width="40" height="31" as="geometry" />
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1245" y="310" width="20" height="120" as="geometry" />
@@ -454,8 +454,8 @@
         <mxCell id="98577THDPVKNO9du4VlZ-10" value="人欲：洞察人欲，判断人的思维体系&lt;br&gt;1. 尊重满足适度的人欲（和光同尘，外圆内方），遏制过度的人欲；&lt;br&gt;2. 对于对立面，则是放大利用过度的人欲）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;align=left;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="888" y="590" width="252" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="98577THDPVKNO9du4VlZ-11" value="方向，规则，边界（人性）&lt;br&gt;有所为，有所不为&lt;br&gt;重点：&lt;br&gt;1. 该不该做（价值判断）&lt;br&gt;2. 能不能做（因缘和合，特别是个人的能力和能量）&lt;br&gt;3. 如何做（路径的规划）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1510" y="215" width="190" height="30" as="geometry" />
+        <mxCell id="98577THDPVKNO9du4VlZ-11" value="方向，规则，边界（人性）、有所为，有所不为&lt;br&gt;明晰：&lt;br&gt;道：自然，规律，是本质&lt;br&gt;法：规章制度、方法论、指导方针，是道的显示（从无到有）&lt;br&gt;术：基于道法的实操执行&lt;br&gt;器：工具，用于提高术的效率&lt;br&gt;势：道法术器下体现的当下的时空势能&lt;br&gt;重点：&lt;br&gt;1. 该不该做（价值判断）= &amp;gt; 道&lt;br&gt;2. 能不能做（因缘和合，特别是个人的能力和能量，法是否具备）&lt;br&gt;3. 如何做（路径的规划）" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="1510" y="195" width="340" height="45" as="geometry" />
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-14" value="诚意&lt;br&gt;/&lt;br&gt;德" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1039" y="251" width="20" height="99" as="geometry" />
