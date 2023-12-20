@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T22:11:31.680Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="e-JsVMjNqoWTZEED2cgh" version="22.1.11" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-12-20T22:16:26.584Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZxyrnvEZPXfUe972mfgU" version="22.1.11" type="github" pages="2">
   <diagram name="人欲" id="_Go4jwINJT83MQobv6Sl">
     <mxGraphModel dx="849" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -263,7 +263,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rlW48G9oCbKYzvNIchC9-22" value="&lt;font color=&quot;#331a00&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;第八识/无我&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FF3333;fillColor=#FF0000;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1030" y="230" width="200" height="140" as="geometry" />
+          <mxGeometry x="1030" y="230" width="210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pElc_GBahKU2lHsQ8S-i-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF3333;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rlW48G9oCbKYzvNIchC9-1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -377,7 +377,7 @@
           <mxGeometry x="750" y="80" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-7" value="专主一个天理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1200" y="251" width="20" height="99" as="geometry" />
+          <mxGeometry x="1210" y="251" width="20" height="99" as="geometry" />
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-16" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1245" y="171" width="20" height="120" as="geometry" />
@@ -541,6 +541,9 @@
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-45" value="&lt;font color=&quot;#ff3333&quot;&gt;道心者，良知之谓也&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="970" y="31" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ormU5pgDfL7NNsPqfJVq-2" value="惟&lt;br&gt;精&lt;br&gt;惟&lt;br&gt;一&lt;br&gt;允&lt;br&gt;执&lt;br&gt;厥&lt;br&gt;中" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
+          <mxGeometry x="1187" y="240" width="20" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
