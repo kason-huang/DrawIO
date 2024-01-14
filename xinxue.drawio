@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-14T03:12:49.478Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="wYEZtN8QurVtnpoz0r-6" version="22.1.12" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-14T22:44:26.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="j1qQWwhlwHMLKNA8cRHO" version="22.1.18" type="github" pages="2">
   <diagram name="人欲" id="_Go4jwINJT83MQobv6Sl">
-    <mxGraphModel dx="714" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -134,7 +134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
-    <mxGraphModel dx="943" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rlW48G9oCbKYzvNIchC9-0" />
         <mxCell id="rlW48G9oCbKYzvNIchC9-1" parent="rlW48G9oCbKYzvNIchC9-0" />
@@ -472,7 +472,7 @@
         <mxCell id="98577THDPVKNO9du4VlZ-10" value="人欲：洞察人欲，判断人的思维体系&lt;br&gt;1. 尊重满足适度的人欲（和光同尘，外圆内方），遏制过度的人欲；&lt;br&gt;2. 对于对立面，则是放大利用过度的人欲）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;align=left;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="888" y="590" width="252" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="98577THDPVKNO9du4VlZ-11" value="方向，规则，边界（人性）、有所为，有所不为&lt;br&gt;明晰：&lt;br&gt;道：自然，规律，是本质&lt;br&gt;法：规章制度、方法论、指导方针，是道的显示（从无到有）&lt;br&gt;术：基于道法的实操执行&lt;br&gt;器：工具，用于提高术的效率&lt;br&gt;势：道法术器下体现的当下的时空势能，是一种演化的能力&lt;br&gt;重点：（守正、积势、待时）&lt;br&gt;1. 该不该做（价值判断）= &amp;gt; 道&lt;br&gt;2.&amp;nbsp;因缘际合,和合而生&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1 能不能做（特别是个人的能力和能量，法是否具备，矛盾分析）&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.2&amp;nbsp;如何做（路径的规划）=&amp;gt; 术+器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+        <mxCell id="98577THDPVKNO9du4VlZ-11" value="方向，规则，边界（人性）、有所为，有所不为&lt;br&gt;明晰：&lt;br&gt;道：自然，规律，是本质&lt;br&gt;法：规章制度、方法论、指导方针，是道的显示（从无到有）&lt;br&gt;术：基于道法的实操执行&lt;br&gt;器：工具，用于提高术的效率&lt;br&gt;势：道法术器下体现的当下的时空势能，是一种演化的能力&lt;br&gt;重点：（守正、积势、待时）&lt;br&gt;1. 该不该做（价值判断）= &amp;gt; 道&lt;br&gt;2.&amp;nbsp;因缘际合,和合而生&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1 能不能做（特别是个人的能力和能量，法是否具备，矛盾分析），个人的能力有一个很重要的视野，这个决定了你的理性分析可以达到的高度（实践论与矛盾论）&lt;br&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.2&amp;nbsp;如何做（路径的规划）=&amp;gt; 术+器" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1510" y="190" width="340" height="50" as="geometry" />
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-14" value="诚意&lt;br&gt;/&lt;br&gt;德" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
