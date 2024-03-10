@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-10T08:07:58.330Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="nK3pS7E4MVuHz7rR6eol" version="23.1.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-10T08:10:49.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="DUWHDVQKU7LMxowDm9mY" version="23.1.4" type="github" pages="2">
   <diagram name="人欲" id="_Go4jwINJT83MQobv6Sl">
     <mxGraphModel dx="849" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -391,8 +391,8 @@
         <mxCell id="UOFzbdPcFjYuejqiO3a8-3" value="&lt;font color=&quot;#ff3333&quot;&gt;止&lt;br&gt;于&lt;br&gt;止&lt;br&gt;善&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="772" y="389" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UOFzbdPcFjYuejqiO3a8-6" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;心灵的自由与幸福&lt;br&gt;（常快活）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="750" y="80" width="120" height="50" as="geometry" />
+        <mxCell id="UOFzbdPcFjYuejqiO3a8-6" value="&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;心灵的自由与幸福&lt;br&gt;各种体验，酸甜苦辣，通过矛盾你才能懂得&lt;br&gt;（常快活）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="600" y="49" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-7" value="专主一个天理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1210" y="251" width="20" height="99" as="geometry" />
@@ -577,24 +577,25 @@
         <mxCell id="-AZS-7e0XjfJzMxS2Uj5-0" value="字：行中（行知，冲气以为和）" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="60" y="19" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="N3eRVqUCFZVXg0NM8PEO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;endArrow=openThin;endFill=0;strokeColor=none;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="N3eRVqUCFZVXg0NM8PEO-0">
+        <mxCell id="N3eRVqUCFZVXg0NM8PEO-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=openThin;startFill=0;endArrow=openThin;endFill=0;strokeColor=none;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="33.299999999999955" as="sourcePoint" />
             <mxPoint x="740" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N3eRVqUCFZVXg0NM8PEO-0" value="幸福（各种体验）&lt;br&gt;酸甜苦辣（矛盾）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
-          <mxGeometry x="620" y="13.5" width="110" height="39.5" as="geometry" />
-        </mxCell>
-        <mxCell id="N3eRVqUCFZVXg0NM8PEO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="98577THDPVKNO9du4VlZ-37" target="N3eRVqUCFZVXg0NM8PEO-0">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="N3eRVqUCFZVXg0NM8PEO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.857;entryY=0.011;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="98577THDPVKNO9du4VlZ-37" target="UOFzbdPcFjYuejqiO3a8-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="33.25" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="N3eRVqUCFZVXg0NM8PEO-4" value="获得" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="N3eRVqUCFZVXg0NM8PEO-3">
           <mxGeometry x="-0.1738" y="2" relative="1" as="geometry">
             <mxPoint x="1" y="-4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="N3eRVqUCFZVXg0NM8PEO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.643;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="N3eRVqUCFZVXg0NM8PEO-0" target="rlW48G9oCbKYzvNIchC9-22">
+        <mxCell id="N3eRVqUCFZVXg0NM8PEO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.643;entryY=-0.029;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;exitX=0.571;exitY=-0.056;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="UOFzbdPcFjYuejqiO3a8-6" target="rlW48G9oCbKYzvNIchC9-22">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="680" y="13.5" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="680" y="-10" />
               <mxPoint x="1165" y="-10" />
