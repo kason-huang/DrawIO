@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-14T02:36:46.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hngn5u6SucyTllLg-SNK" version="24.2.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-04-21T06:50:25.600Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="racoDAUzIECBfMLkrGAE" version="24.2.2" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
     <mxGraphModel dx="849" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -495,7 +495,7 @@
         <mxCell id="3y3VdQf2O8nQPrQLjOAk-6" value="物资多：物资回报等" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1040" y="472" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="amDeoEWHjiUm88pQoNM_-0" value="&lt;font color=&quot;#ffffff&quot;&gt;利益&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;物资｜精神&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#990099;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
+        <mxCell id="amDeoEWHjiUm88pQoNM_-0" value="&lt;font color=&quot;#ffffff&quot;&gt;利益&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;人欲｜天理&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#990099;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="935" y="296" width="75" height="30" as="geometry" />
         </mxCell>
       </root>
