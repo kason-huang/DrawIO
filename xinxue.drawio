@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T03:15:56.961Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="mlNIhRlPRYCukH327Pic" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-18T05:53:57.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KiJ2PZeP7l64dQEzZbBU" version="24.2.7" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
-    <mxGraphModel dx="1676" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rlW48G9oCbKYzvNIchC9-0" />
         <mxCell id="rlW48G9oCbKYzvNIchC9-1" parent="rlW48G9oCbKYzvNIchC9-0" />
@@ -226,26 +226,6 @@
             <mxPoint x="-120" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;endArrow=none;endFill=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="KJWXuxT3w3D5Mta4TJBv-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="657.7157287525379" y="620.2842712474621" as="sourcePoint" />
-            <mxPoint x="704" y="84.75" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="787" y="640" />
-              <mxPoint x="658" y="640" />
-              <mxPoint x="658" y="680" />
-              <mxPoint x="-94" y="680" />
-              <mxPoint x="-94" y="-30" />
-              <mxPoint x="696" y="-30" />
-              <mxPoint x="696" y="85" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-1" value="全集是道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2Ly7qzKDfoFi0dmO9it-0">
-          <mxGeometry x="0.5894" y="-3" relative="1" as="geometry">
-            <mxPoint y="-8" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="V2Ly7qzKDfoFi0dmO9it-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="KJWXuxT3w3D5Mta4TJBv-2" target="V2Ly7qzKDfoFi0dmO9it-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="660" as="targetPoint" />
@@ -253,6 +233,27 @@
         </mxCell>
         <mxCell id="V2Ly7qzKDfoFi0dmO9it-8" value="演化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2Ly7qzKDfoFi0dmO9it-6">
           <mxGeometry x="-0.0781" y="3" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.413;exitY=1.006;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;fillColor=#a20025;strokeColor=#6F0000;endArrow=none;endFill=0;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="KJWXuxT3w3D5Mta4TJBv-2" target="98577THDPVKNO9du4VlZ-37">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="784" y="535" as="sourcePoint" />
+            <mxPoint x="810.75" y="-59" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="784" y="601" />
+              <mxPoint x="784" y="640" />
+              <mxPoint x="417" y="640" />
+              <mxPoint x="417" y="565" />
+              <mxPoint x="17" y="565" />
+              <mxPoint x="17" y="-145" />
+              <mxPoint x="811" y="-145" />
+              <mxPoint x="811" y="6" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-13" value="全集是道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2Ly7qzKDfoFi0dmO9it-12">
+          <mxGeometry x="0.6179" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
