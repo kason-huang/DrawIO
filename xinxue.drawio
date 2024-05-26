@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-18T05:53:57.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KiJ2PZeP7l64dQEzZbBU" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-26T02:24:43.837Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="wLMtTQQxymK0PJ8VY21y" version="24.4.4" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
     <mxGraphModel dx="849" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,7 +61,7 @@
             <mxPoint x="760" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UOFzbdPcFjYuejqiO3a8-10" value="术：&lt;br&gt;因地制宜" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KJWXuxT3w3D5Mta4TJBv-6" vertex="1" connectable="0">
+        <mxCell id="UOFzbdPcFjYuejqiO3a8-10" value="变革/实践&lt;br&gt;因地制宜" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="KJWXuxT3w3D5Mta4TJBv-6" vertex="1" connectable="0">
           <mxGeometry x="0.3507" relative="1" as="geometry">
             <mxPoint x="-11" y="-28" as="offset" />
           </mxGeometry>
@@ -226,17 +226,17 @@
             <mxPoint x="-120" y="-24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="KJWXuxT3w3D5Mta4TJBv-2" target="V2Ly7qzKDfoFi0dmO9it-9">
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="rlW48G9oCbKYzvNIchC9-1" source="KJWXuxT3w3D5Mta4TJBv-2" target="V2Ly7qzKDfoFi0dmO9it-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="790" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-8" value="演化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2Ly7qzKDfoFi0dmO9it-6">
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-8" value="演化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V2Ly7qzKDfoFi0dmO9it-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0781" y="3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.413;exitY=1.006;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;fillColor=#a20025;strokeColor=#6F0000;endArrow=none;endFill=0;" edge="1" parent="rlW48G9oCbKYzvNIchC9-1" source="KJWXuxT3w3D5Mta4TJBv-2" target="98577THDPVKNO9du4VlZ-37">
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.413;exitY=1.006;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;exitPerimeter=0;fillColor=#a20025;strokeColor=#6F0000;endArrow=none;endFill=0;" parent="rlW48G9oCbKYzvNIchC9-1" source="KJWXuxT3w3D5Mta4TJBv-2" target="98577THDPVKNO9du4VlZ-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="784" y="535" as="sourcePoint" />
             <mxPoint x="810.75" y="-59" as="targetPoint" />
@@ -252,7 +252,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-13" value="全集是道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="V2Ly7qzKDfoFi0dmO9it-12">
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-13" value="全集是道" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V2Ly7qzKDfoFi0dmO9it-12" vertex="1" connectable="0">
           <mxGeometry x="0.6179" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -310,8 +310,8 @@
         <mxCell id="98577THDPVKNO9du4VlZ-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="700" y="382" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="98577THDPVKNO9du4VlZ-4" value="核心是：以大多数人利益为主，&lt;br&gt;引导人向善，遏制消解人欲；&lt;br&gt;条件允许下，最好的术就是化（具备长尾效应的）&lt;br&gt;好的制度、权威和权力、因人而异的沟通&lt;br&gt;、符合当地民众心理正面的行为（祭祀）&lt;br&gt;&lt;font color=&quot;#ff3333&quot;&gt;做事：身心分离（心已经在良知确定了）&lt;br&gt;&lt;/font&gt;无为：有所为，有所不为&lt;font color=&quot;#ff3333&quot;&gt;&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="430" y="379" width="290" height="110" as="geometry" />
+        <mxCell id="98577THDPVKNO9du4VlZ-4" value="&lt;font color=&quot;#ff3333&quot;&gt;自我：致良知&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;基础：基于利益链与逻辑链去依循道的自然发展&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;条件：天时、地利、人和（人情世故让别人的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;七情六欲，甚至良知成为你逻辑链与利益链的一环）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="430" y="399" width="300" height="70" as="geometry" />
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-6" value="方法论：为善去恶是格物；这里会迭代升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="665" y="320" width="255" height="30" as="geometry" />
@@ -478,7 +478,7 @@
         <mxCell id="amDeoEWHjiUm88pQoNM_-0" value="&lt;font color=&quot;#ffffff&quot;&gt;利益&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;人欲｜天理&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#990099;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="935" y="296" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-9" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;万物&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;自然&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-9" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;万物&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;自然系统&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="747" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
