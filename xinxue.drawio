@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-01T01:52:40.455Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="3oiPljkyUhOXoCP8ppbE" version="24.4.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-01T13:52:19.702Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="c5j0zyuLDZ84O6os2w0u" version="24.4.4" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
     <mxGraphModel dx="943" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -310,8 +310,8 @@
         <mxCell id="98577THDPVKNO9du4VlZ-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="700" y="382" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="98577THDPVKNO9du4VlZ-4" value="&lt;font color=&quot;#ff3333&quot;&gt;自我：致良知&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;基础：基于利益链与逻辑链去依循道的自然发展&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;圣人：守弱&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;条件：天时、地利、人和（人情世故让别人的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;七情六欲，甚至良知成为你逻辑链与利益链的一环）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="430" y="389" width="300" height="90" as="geometry" />
+        <mxCell id="98577THDPVKNO9du4VlZ-4" value="&lt;font color=&quot;#ff3333&quot;&gt;自我：致良知&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;基础：基于利益链与逻辑链去依循道的自然发展，&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;顺应与利用（不是拥有和改变）自然知道，与它合而为一&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;圣人：守弱&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;条件：天时、地利、人和（人情世故让别人的&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3333&quot;&gt;七情六欲，甚至良知成为你逻辑链与利益链的一环）&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="430" y="384" width="320" height="100" as="geometry" />
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-6" value="方法论：为善去恶是格物；这里会迭代升级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="665" y="320" width="255" height="30" as="geometry" />
