@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-14T23:40:28.663Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zbTfR0xyRA7dJtrv6T4L" version="24.4.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-22T04:11:00.175Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zdGDAM2K8bLyhLDbpg_W" version="24.5.4" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
-    <mxGraphModel dx="1026" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rlW48G9oCbKYzvNIchC9-0" />
         <mxCell id="rlW48G9oCbKYzvNIchC9-1" parent="rlW48G9oCbKYzvNIchC9-0" />
@@ -159,14 +159,8 @@
             <mxPoint x="37" y="34" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlW48G9oCbKYzvNIchC9-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;良知&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1074" y="240" width="90" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="rlW48G9oCbKYzvNIchC9-24" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;心&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1075" y="285" width="40" height="31" as="geometry" />
-        </mxCell>
-        <mxCell id="rlW48G9oCbKYzvNIchC9-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;脑&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1133" y="283" width="40" height="31" as="geometry" />
+        <mxCell id="rlW48G9oCbKYzvNIchC9-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;心&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="1074" y="240" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="qCYr7t20ng1QFNwS5X6b-0" value="" style="curved=1;endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.25;exitDx=0;exitDy=0;fillColor=#d80073;strokeColor=#FF0000;" parent="rlW48G9oCbKYzvNIchC9-1" source="rlW48G9oCbKYzvNIchC9-22" target="rlW48G9oCbKYzvNIchC9-15" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -209,7 +203,7 @@
         <mxCell id="pElc_GBahKU2lHsQ8S-i-8" value="五蕴皆空" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1070" y="319" width="50" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pElc_GBahKU2lHsQ8S-i-9" value="价值判断" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+        <mxCell id="pElc_GBahKU2lHsQ8S-i-9" value="致良知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#a20025;strokeColor=#6F0000;fontColor=#ffffff;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1125" y="319" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zilvp4eejZwOfjrLu5M5-0" value="所见所闻&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;困难&lt;/font&gt;（反脆弱）&lt;br&gt;&lt;div&gt;书本知识&lt;br&gt;犯小人&lt;/div&gt;&lt;div&gt;女色等&lt;br&gt;.....&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
@@ -304,8 +298,8 @@
         <mxCell id="UOFzbdPcFjYuejqiO3a8-46" value="齐家" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="710" y="520" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="98577THDPVKNO9du4VlZ-0" value="价值观：知善知恶是良知&lt;br&gt;人类文明积淀的智慧、道德与灵性的自觉" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF0080;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="1180" y="6.5" width="150" height="55" as="geometry" />
+        <mxCell id="98577THDPVKNO9du4VlZ-0" value="价值观：知善知恶是良知&lt;br&gt;人类文明积淀的智慧、道德与灵性的自觉&lt;div style=&quot;text-align: left;&quot;&gt;人生在世有两种价值，一种是人欲的价值，一种是心的价值（权利、金钱只是这两种价值追求的表现和武器）；对于真正追求人性的人，心的价值才是最大的，也就是心外无物&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontColor=#FF0080;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="1180" y="6.5" width="180" height="133.5" as="geometry" />
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="700" y="382" width="20" height="120" as="geometry" />
