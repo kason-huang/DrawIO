@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T23:54:37.002Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="N6mO933m798DzH8NN_Kc" version="24.5.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-07-06T07:55:08.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="m6u9TGxK1yc0F8DPKeDi" version="24.6.1" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
-    <mxGraphModel dx="849" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rlW48G9oCbKYzvNIchC9-0" />
         <mxCell id="rlW48G9oCbKYzvNIchC9-1" parent="rlW48G9oCbKYzvNIchC9-0" />
@@ -274,7 +274,7 @@
         <mxCell id="UOFzbdPcFjYuejqiO3a8-3" value="&lt;font color=&quot;#ff3333&quot;&gt;止&lt;br&gt;于&lt;br&gt;止&lt;br&gt;善&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="772" y="389" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UOFzbdPcFjYuejqiO3a8-6" value="&lt;b&gt;致良知&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;心灵的自由与幸福&lt;/font&gt;&lt;br&gt;各种体验，酸甜苦辣，通过矛盾你才能懂得&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;（常快活）&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+        <mxCell id="UOFzbdPcFjYuejqiO3a8-6" value="&lt;b&gt;致良知&lt;br&gt;心是自己动力的源泉&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;心灵的自由与幸福&lt;br&gt;各种体验，酸甜苦辣，通过矛盾你才能懂得&lt;br&gt;（常快活）&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="600" y="49" width="140" height="90" as="geometry" />
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-7" value="专主一个天理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
@@ -454,7 +454,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N3eRVqUCFZVXg0NM8PEO-12" value="五蕴" style="shape=card;whiteSpace=wrap;html=1;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+        <mxCell id="N3eRVqUCFZVXg0NM8PEO-12" value="五蕴" style="shape=card;whiteSpace=wrap;html=1;fillColor=#a20025;fontColor=#ffffff;strokeColor=#6F0000;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="380" y="70" width="70" height="61" as="geometry" />
         </mxCell>
         <mxCell id="3y3VdQf2O8nQPrQLjOAk-0" value="逆天改命：&lt;div&gt;正反馈&lt;div&gt;就是燃料&lt;/div&gt;&lt;/div&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
