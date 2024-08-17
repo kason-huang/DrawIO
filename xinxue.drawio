@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-08-17T01:36:52.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rP2xZMUEiJ7Ke0B_0v5G" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-08-17T01:43:52.369Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="cg0yyQAXXwduTvYQmzjg" version="24.6.4" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
     <mxGraphModel dx="943" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -475,7 +475,7 @@
         <mxCell id="V2Ly7qzKDfoFi0dmO9it-9" value="&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;大范围的&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;良知的幸福&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="747" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dBcNNBSBVlhbgPbioi1p-0" value="良知：每个人都是独立的个体，这个独立的个体更多体现在良知上，我们要构造一个自然系统，需要引导这个良知，而手段是通过环境去让人先行，获得反馈，形成知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=left;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
+        <mxCell id="dBcNNBSBVlhbgPbioi1p-0" value="良知：每个人都是独立的个体，这个独立的个体更多体现在良知上，我们要构造一个良知的幸福自然系统，需要引导这个良知，而手段是通过环境去让人先行，获得反馈，形成知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=left;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
           <mxGeometry x="433" y="650" width="267" height="90" as="geometry" />
         </mxCell>
       </root>
