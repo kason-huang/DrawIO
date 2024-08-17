@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-06T07:55:26.781Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="pbWVDbLMDtubuzVQTHCI" version="24.6.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-08-17T01:36:52.446Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="rP2xZMUEiJ7Ke0B_0v5G" version="24.6.4" type="github" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
-    <mxGraphModel dx="1026" dy="1903" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="943" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rlW48G9oCbKYzvNIchC9-0" />
         <mxCell id="rlW48G9oCbKYzvNIchC9-1" parent="rlW48G9oCbKYzvNIchC9-0" />
@@ -225,7 +225,7 @@
             <mxPoint x="790" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-8" value="演化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V2Ly7qzKDfoFi0dmO9it-6" vertex="1" connectable="0">
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-8" value="&lt;div&gt;变革现实&lt;/div&gt;演化 自然系统" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="V2Ly7qzKDfoFi0dmO9it-6" vertex="1" connectable="0">
           <mxGeometry x="-0.0781" y="3" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
@@ -235,8 +235,8 @@
             <mxPoint x="784" y="535" as="sourcePoint" />
             <mxPoint x="810.75" y="-59" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="784" y="601" />
-              <mxPoint x="784" y="640" />
+              <mxPoint x="760" y="601" />
+              <mxPoint x="760" y="640" />
               <mxPoint x="417" y="640" />
               <mxPoint x="417" y="565" />
               <mxPoint x="17" y="565" />
@@ -274,8 +274,8 @@
         <mxCell id="UOFzbdPcFjYuejqiO3a8-3" value="&lt;font color=&quot;#ff3333&quot;&gt;止&lt;br&gt;于&lt;br&gt;止&lt;br&gt;善&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="772" y="389" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UOFzbdPcFjYuejqiO3a8-6" value="&lt;b&gt;致良知&lt;br&gt;心是自己动力的源泉&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;心灵的自由与幸福&lt;br&gt;各种体验，酸甜苦辣，通过矛盾你才能懂得&lt;br&gt;（常快活）&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="600" y="49" width="140" height="90" as="geometry" />
+        <mxCell id="UOFzbdPcFjYuejqiO3a8-6" value="&lt;div&gt;&lt;b&gt;良知的幸福&lt;/b&gt;&lt;/div&gt;&lt;b&gt;致良知&lt;br&gt;心是自己动力的源泉&lt;br&gt;&lt;/b&gt;&lt;div&gt;&lt;b&gt;心灵的自由与幸福&lt;br&gt;各种体验，酸甜苦辣，通过矛盾你才能懂得&lt;br&gt;（常快活）&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="600" y="49" width="140" height="111" as="geometry" />
         </mxCell>
         <mxCell id="UOFzbdPcFjYuejqiO3a8-7" value="专主一个天理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1210" y="251" width="20" height="99" as="geometry" />
@@ -316,8 +316,8 @@
         <mxCell id="98577THDPVKNO9du4VlZ-9" value="世界观：无善无恶心之本体" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0080;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="497" y="505" width="155" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="98577THDPVKNO9du4VlZ-10" value="人欲：洞察人欲，判断人的思维体系&lt;br&gt;1. 尊重满足适度的人欲（和光同尘，外圆内方），遏制过度的人欲；&lt;br&gt;2. 对于对立面，则是放大利用过度的人欲）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=left;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
-          <mxGeometry x="881" y="610" width="252" height="75" as="geometry" />
+        <mxCell id="98577THDPVKNO9du4VlZ-10" value="人欲：洞察人欲，判断人的思维体系&lt;div&gt;对于人要知道，人组成的群体一定是一个自然系统，而且这个系统受最大力量所有者的约束，基于此构建利益链与逻辑链；大部分人的行为大部分都是基于人欲来行动的&lt;br&gt;1. 尊重满足适度的人欲（和光同尘，外圆内方），遏制过度的人欲；&lt;br&gt;2. 对于对立面，则是放大利用过度的人欲）&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=left;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+          <mxGeometry x="873" y="620" width="267" height="140" as="geometry" />
         </mxCell>
         <mxCell id="98577THDPVKNO9du4VlZ-14" value="诚意&lt;br&gt;/&lt;br&gt;德" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="1039" y="251" width="20" height="99" as="geometry" />
@@ -472,8 +472,11 @@
         <mxCell id="amDeoEWHjiUm88pQoNM_-0" value="&lt;font color=&quot;#ffffff&quot;&gt;利益&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;人欲｜天理&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CC0000;strokeColor=#990099;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="935" y="296" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V2Ly7qzKDfoFi0dmO9it-9" value="&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;万物&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b style=&quot;color: rgb(255, 0, 0); background-color: initial;&quot;&gt;自然系统&lt;/b&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
+        <mxCell id="V2Ly7qzKDfoFi0dmO9it-9" value="&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;大范围的&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;良知的幸福&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="747" y="650" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dBcNNBSBVlhbgPbioi1p-0" value="良知：每个人都是独立的个体，这个独立的个体更多体现在良知上，我们要构造一个自然系统，需要引导这个良知，而手段是通过环境去让人先行，获得反馈，形成知" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=left;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
+          <mxGeometry x="433" y="650" width="267" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
