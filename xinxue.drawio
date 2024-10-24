@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-18T02:21:42.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="qiIjil7aea9oVi-99mPc" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.7" pages="2">
   <diagram name="良知" id="R6jlcNsXZqe95VVID5qR">
-    <mxGraphModel dx="943" dy="1935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="849" dy="1858" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="rlW48G9oCbKYzvNIchC9-0" />
         <mxCell id="rlW48G9oCbKYzvNIchC9-1" parent="rlW48G9oCbKYzvNIchC9-0" />
@@ -72,7 +72,7 @@
         <mxCell id="pElc_GBahKU2lHsQ8S-i-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeColor=#FF3333;" parent="rlW48G9oCbKYzvNIchC9-1" source="rlW48G9oCbKYzvNIchC9-14" target="rlW48G9oCbKYzvNIchC9-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zilvp4eejZwOfjrLu5M5-2" value="知，内化的行&lt;br&gt;行，外化的知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pElc_GBahKU2lHsQ8S-i-7" vertex="1" connectable="0">
+        <mxCell id="zilvp4eejZwOfjrLu5M5-2" value="知，内化的行&lt;br&gt;行，外化的知&lt;div&gt;行会改变知&lt;/div&gt;&lt;div&gt;知会强化行&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="pElc_GBahKU2lHsQ8S-i-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1348" y="1" relative="1" as="geometry">
             <mxPoint x="5" y="1" as="offset" />
           </mxGeometry>
@@ -434,9 +434,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="N3eRVqUCFZVXg0NM8PEO-6" value="持续性知行合一，形成致良知，通过演化改造世界（你想追求的东西）&lt;br&gt;持续成长，向道靠拢，获得幸福；内化/五蕴皆空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N3eRVqUCFZVXg0NM8PEO-5" vertex="1" connectable="0">
+        <mxCell id="N3eRVqUCFZVXg0NM8PEO-6" value="&lt;div&gt;&lt;div style=&quot;white-space: pre-wrap;&quot; data-line=&quot;true&quot; data-line-index=&quot;0&quot; data-zone-id=&quot;0&quot;&gt;道：从目标/战略推演出你的行为，以行为改变你的认知，循环往返，从而得道&lt;/div&gt;&lt;/div&gt;持续性知行合一，形成致良知，通过演化改造世界（你想追求的东西）&lt;br&gt;持续成长，向道靠拢，获得幸福；内化/五蕴皆空" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="N3eRVqUCFZVXg0NM8PEO-5" vertex="1" connectable="0">
           <mxGeometry x="0.0196" y="-2" relative="1" as="geometry">
-            <mxPoint x="-86" y="-22" as="offset" />
+            <mxPoint x="-106" y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="N3eRVqUCFZVXg0NM8PEO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1.017;exitY=0.141;exitDx=0;exitDy=0;entryX=-0.033;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" parent="rlW48G9oCbKYzvNIchC9-1" source="rlW48G9oCbKYzvNIchC9-2" edge="1">
@@ -475,7 +475,7 @@
         <mxCell id="V2Ly7qzKDfoFi0dmO9it-9" value="&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;大范围的&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;b&gt;良知的幸福&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffff88;strokeColor=#36393d;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="747" y="650" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dBcNNBSBVlhbgPbioi1p-0" value="人欲和良知是人运动的源，是动力；是人欲还是良知，你的心知道；好比感受，人欲会顺着感受去解决感受，比如回避恐惧，通过情绪发泄，你的心是知道的，而良知会接受它（接受才能化解），然后对其做出反应，坐入此道，好似水流遇到巨石，接受它，通过它。&lt;div&gt;如何培育良知，只能是自发，而这个自发需要环境的引导，人是具备培育良知的基础条件的，我们知识需要引导和让其自然发展而已，好比爱&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=left;" vertex="1" parent="rlW48G9oCbKYzvNIchC9-1">
+        <mxCell id="dBcNNBSBVlhbgPbioi1p-0" value="人欲和良知是人运动的源，是动力；是人欲还是良知，你的心知道；好比感受，人欲会顺着感受去解决感受，比如回避恐惧，通过情绪发泄，你的心是知道的，而良知会接受它（接受才能化解），然后对其做出反应，坐入此道，好似水流遇到巨石，接受它，通过它。&lt;div&gt;如何培育良知，只能是自发，而这个自发需要环境的引导，人是具备培育良知的基础条件的，我们知识需要引导和让其自然发展而已，好比爱&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;align=left;" parent="rlW48G9oCbKYzvNIchC9-1" vertex="1">
           <mxGeometry x="433" y="650" width="267" height="140" as="geometry" />
         </mxCell>
       </root>
