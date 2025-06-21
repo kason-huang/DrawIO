@@ -1136,6 +1136,21 @@
         <mxCell id="1zOHIi02hmfA7yZQ2fG9-5" value="&lt;font style=&quot;color: rgb(255, 28, 7);&quot;&gt;客观世界&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1zOHIi02hmfA7yZQ2fG9-1">
           <mxGeometry x="65" y="70" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="1zOHIi02hmfA7yZQ2fG9-7" value="否定之否定" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1zOHIi02hmfA7yZQ2fG9-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1zOHIi02hmfA7yZQ2fG9-8" target="1zOHIi02hmfA7yZQ2fG9-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1zOHIi02hmfA7yZQ2fG9-8" value="人性利益论" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1zOHIi02hmfA7yZQ2fG9-9" value="对立统一规律" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="410" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1zOHIi02hmfA7yZQ2fG9-10" value="质量互变规律" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
